@@ -1,0 +1,68 @@
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.deps.json
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.runtimeconfig.json
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.runtimeconfig.dev.json
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.dll
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.csprojAssemblyReference.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorAssemblyInfo.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorAssemblyInfo.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.AssemblyInfoInputs.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.AssemblyInfo.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.TagHelpers.input.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.TagHelpers.output.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorCoreGenerate.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.pdb
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.Views.dll
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.Views.pdb
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.Views.pdb
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.dll
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.pdb
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.csproj.CopyComplete
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.deps.json
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.runtimeconfig.json
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.runtimeconfig.dev.json
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.dll
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.pdb
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.Views.dll
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\bin\Debug\netcoreapp2.1\RolesApp.Views.pdb
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorAssemblyInfo.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorAssemblyInfo.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.TagHelpers.input.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.TagHelpers.output.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorCoreGenerate.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.Views.pdb
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.dll
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.pdb
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\RolesApp.csproj.CopyComplete
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Meeting\AddMeeting.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Meeting\GetAllMeeting.g.cshtml.cs
+C:\Users\Valentin\Desktop\RolesApp\RolesApp\RolesApp\obj\Debug\netcoreapp2.1\Razor\Views\Meeting\GetInfoAboutMeeting.g.cshtml.cs

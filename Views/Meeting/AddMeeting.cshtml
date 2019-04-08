@@ -1,0 +1,35 @@
+﻿@{
+    Layout = "_Layout";
+}
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<form method="post" asp-controller="Meeting" asp-action="AddMeeting" asp-anti-forgery="true">
+    <p>Название мероприятия:</p>
+    <div><input class="inputNameEvent" type="text" id="idtxt" name="NameEvent" /></div>
+    <p>Тема---------------------------Подтема</p>
+    <div>
+        <input class="inputHeader" type="text" id="idtxt" name="HeaderEvent[0]" /> 
+        <input class="inputContext" type="text" id="idtxt" name="ContextEvent[0]" />
+        <p></p>
+    </div>
+
+    <div id="textboxDiv"></div>
+
+    <script>
+        $(document).ready(function () {
+            $("#Add").on("click", function () {
+                $("#textboxDiv").append("<input class='inputHeader' type='text' id='idtxt' name='HeaderEvent[" + document.getElementsByClassName('inputHeader').length + "]'/>  ");
+                $("#textboxDiv").append("<input class='inputContext' type='text' id='idtxt' name='ContextEvent[" + document.getElementsByClassName('inputContext').length + "]'/>");
+                $("#textboxDiv").append("<p><div></div></p>");
+            });
+            $("#Remove").on("click", function () {
+                $("#textboxDiv").children().last().remove();
+            });
+        });
+    </script>
+
+    <button type="button" id="Add">Добавить поля</button>
+    <button type="button" id="Remove">Удалить поля</button>
+
+    <input type="submit" value="Отправить" />
+</form>

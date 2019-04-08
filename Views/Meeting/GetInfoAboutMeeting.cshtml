@@ -1,0 +1,17 @@
+﻿@model IEnumerable<RolesApp.Models.Meeting.MeetingInformation>
+@{
+    Layout = "_Layout";
+}
+<h2>GetInfoAboutMeeting</h2>
+
+
+@foreach (var item in Model)
+{
+    <p>
+        <span>@item.Header</span>:
+        <span>  @item.Context</span>
+    </p>
+}
+
+@Html.ActionLink("Записаться", "RegistrationOnMeeting", "Meeting", new { EventId = ViewBag.EventId }, null)
+@Html.ActionLink("Список участников", "ListRegistration", "Meeting", new { EventId = ViewBag.EventId }, null)
